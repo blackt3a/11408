@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "92ed3b01657c53dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5e58bd2069f3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3e3d9cd9590029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/输入输出管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c25be0de06df3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8a217b5fa3eb67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7354cee9d7ea5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5117fddd744b7c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad86f52fc855cd04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "752e8370bd0f9d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e3d71dfed097a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b36d34df342d50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "操作系统/输入输出管理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33d7ad4f94aadcc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "操作系统/输入输出管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a6b437b72262f3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9624f2d7ddcb7455",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "操作系统/输入输出管理.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7354cee9d7ea5ef4",
+  "lastOpenFiles": []
+}
