@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5e58bd2069f3da",
+        "id": "229ad760306b8d34",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3e3d9cd9590029",
+            "id": "2eae2519841317d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/输入输出管理.md",
+                "file": "数据结构/1.数据结构概论.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/输入输出管理.md",
+                "file": "数据结构/1.数据结构概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/输入输出管理.md",
+                "file": "数据结构/1.数据结构概论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/输入输出管理.md"
+                "file": "数据结构/1.数据结构概论.md"
               }
             }
           }
@@ -146,6 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7354cee9d7ea5ef4",
-  "lastOpenFiles": []
+  "active": "2eae2519841317d6",
+  "lastOpenFiles": [
+    "数据结构/code/ListTest.cpp",
+    "数据结构/code",
+    "数据结构/2.线性表.md",
+    "数据结构/算法/KMP.md",
+    "数据结构/栈，队列和数组.md",
+    "数据结构/算法",
+    "数据结构/图.md",
+    "数据结构/树和二叉树.md",
+    "数据结构/串.md",
+    "数据结构/线性表.md",
+    "数据结构/1.数据结构概论.md",
+    "操作系统/输入输出管理.md"
+  ]
 }
