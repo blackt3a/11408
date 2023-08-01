@@ -23,9 +23,11 @@
             "id": "5a8dfa9f9a6a4d2c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "数据结构/3栈，队列和数组.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/算法/KMP.md",
+                "file": "数据结构/3栈，队列和数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/算法/KMP.md",
+                "file": "数据结构/3栈，队列和数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/算法/KMP.md"
+                "file": "数据结构/3栈，队列和数组.md"
               }
             }
           }
