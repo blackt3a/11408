@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/2.线性表.md",
+                "file": "数据结构/算法/KMP.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a8dfa9f9a6a4d2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/2.线性表.md",
+                "file": "数据结构/算法/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/2.线性表.md",
+                "file": "数据结构/算法/KMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/2.线性表.md"
+                "file": "数据结构/算法/KMP.md"
               }
             }
           }
@@ -146,8 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9bdc25ed44e5343c",
+  "active": "5a8dfa9f9a6a4d2c",
   "lastOpenFiles": [
+    "数据结构/5树和二叉树.md",
+    "数据结构/2.线性表.md",
+    "数据结构/串.md",
+    "数据结构/4串.md",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731210107908.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826-1690808396782-20.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826.png",
@@ -158,12 +173,10 @@
     "数据结构/pictures/3栈，队列和数组.assets/_1007859843__743d57d4855451ca6808f9094265d691_2011322558_Screenshot_20230730_223408_com.jideos_0_wifi_0.jpg",
     "数据结构/pictures/3栈，队列和数组.assets/_-406998571__45f0af8de4150287808507ae4baff571_-1725761992_Screenshot_20230730_223127_com.jideos_0_wifi_0-1690727627959-9-1690727630769-11.jpg",
     "数据结构/pictures/3栈，队列和数组.assets/_-406998571__45f0af8de4150287808507ae4baff571_-1725761992_Screenshot_20230730_223127_com.jideos_0_wifi_0-1690727627959-9.jpg",
-    "数据结构/pictures/3栈，队列和数组.assets/_-406998571__45f0af8de4150287808507ae4baff571_-1725761992_Screenshot_20230730_223127_com.jideos_0_wifi_0.jpg",
     "数据结构/pictures/3栈，队列和数组.assets/70-1690726782873-3",
     "数据结构/pictures/3栈，队列和数组.assets/_fd989fcc8d6124face1027bce14ef179_-1110178717_Screenshot_20230730_154938_com.jideos.jnotes",
     "数据结构/pictures/3栈，队列和数组.assets",
     "未命名.canvas",
-    "数据结构/2.线性表.md",
     "数据结构/3栈，队列和数组.md",
     "数据结构/栈，队列和数组.md",
     "数据结构/1.数据结构概论.md",
@@ -177,7 +190,6 @@
     "数据结构/算法/KMP.md",
     "数据结构/图.md",
     "数据结构/树和二叉树.md",
-    "数据结构/串.md",
     "数据结构/线性表.md",
     "操作系统/输入输出管理.md"
   ]
