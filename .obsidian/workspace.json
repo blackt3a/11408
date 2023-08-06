@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/3栈，队列和数组.md",
+                "file": "数据结构/6图.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/3栈，队列和数组.md",
+                "file": "数据结构/6图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/3栈，队列和数组.md",
+                "file": "数据结构/6图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/3栈，队列和数组.md"
+                "file": "数据结构/6图.md"
               }
             }
           }
@@ -161,7 +161,9 @@
   },
   "active": "5a8dfa9f9a6a4d2c",
   "lastOpenFiles": [
+    "数据结构/图.md",
     "数据结构/6图.md",
+    "数据结构/3栈，队列和数组.md",
     "数据结构/Untitled.md",
     "数据结构/pictures/5树和二叉树.assets/_-46679321__2dde1a912e0016f3162f3498ac095463_1951562707_Screenshot_20230803_164312_com.jideos_0_wifi_0.jpg",
     "数据结构/pictures/5树和二叉树.assets",
@@ -196,8 +198,6 @@
     "计算机网络/1计算机网络体系结构/1.2计算机网络体系结构与参考模型.md",
     "计算机网络/1计算机网络体系结构/1.1计算机网络概述.md",
     "计网/1计算机网络体系结构/1.2计算机网络体系结构与参考模型.md",
-    "计网/1计算机网络体系结构/1.1计算机网络概述.md",
-    "计网/4/4.8网络层设备.md",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731210107908.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826-1690808396782-20.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826.png",
