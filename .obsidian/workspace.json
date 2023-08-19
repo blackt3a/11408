@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a8dfa9f9a6a4d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/计算机网络体系结构/计算机网络概述.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络体系结构/计算机网络概述.md",
+                "file": "数据结构/算法/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络体系结构/计算机网络概述.md",
+                "file": "数据结构/算法/KMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络体系结构/计算机网络概述.md"
+                "file": "数据结构/算法/KMP.md"
               }
             }
           }
@@ -161,6 +148,8 @@
   },
   "active": "7354cee9d7ea5ef4",
   "lastOpenFiles": [
+    "计算机网络/计算机网络体系结构/1.2计算机网络体系与参考模型.md",
+    "计算机网络/计算机网络体系结构/1.1计算机网络概述.md",
     "计算机网络/pictures/计算机网络体系与参考模型.assets/_-2021067793__d00e3ab3b65635d525994d132d35ad07_-1922953809_Screenshot_20230818_164752_com.jideos.jnotes_0_wifi_0.jpg",
     "计算机网络/pictures/计算机网络体系与参考模型.assets/_-717146752__7d3f3854813b31fd2537aa5ec29b9a91_1946623660_Screenshot_20230818_164210_com.jideos.jnotes_0_wifi_0.jpg",
     "计算机网络/pictures/计算机网络体系与参考模型.assets/_-170232269__235f5368c96c051fcfcfd60f5dd85ac4_-1157030421_Screenshot_20230818_152032_com.jideos.jnotes_0_wifi_0.jpg",
@@ -200,13 +189,11 @@
     "计算机网络/3网络层/4.7移动IP.md",
     "计算机网络/3网络层/4.6IP组播.md",
     "计算机网络/3网络层/4.5路由协议.md",
-    "计算机网络/3网络层/4.4IPv6.md",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731210107908.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826-1690808396782-20.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205944826.png",
     "数据结构/pictures/3栈，队列和数组.assets/image-20230731205811312.png",
     "数据结构/pictures/3栈，队列和数组.assets/_-852862926__a391ce69b21f46042e5fa518fd259b03_-1030777188_Screenshot_20230730_225859_com.jideos_0_wifi_0-1690729220152-18.jpg",
-    "数据结构/pictures/3栈，队列和数组.assets/_-852862926__a391ce69b21f46042e5fa518fd259b03_-1030777188_Screenshot_20230730_225859_com.jideos_0_wifi_0.jpg",
     "未命名.canvas"
   ]
 }
